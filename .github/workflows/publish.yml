@@ -81,7 +81,7 @@ jobs:
                   command: node notarize.js
               env:
                   # Pass necessary values to the script via environment variables
-                  APP_BUNDLE_ID: com.soulsociety.shadowai
+                  APP_BUNDLE_ID: com.kunaldas.shadowai
                   APP_PATH: dist/mac-arm64/shadowai.app
                   APPLE_ID: ${{ secrets.APPLE_ID }}
                   APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_PASSWORD }} # Ensure this uses the correct secret name
