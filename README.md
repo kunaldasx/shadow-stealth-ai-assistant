@@ -1,6 +1,6 @@
 <h1 align="center" style>
   <br>
-  <a href="" target="_blank"><img src="src/renderer/src/assets/logo.png" alt="crusto" width="200"></a>
+  <a href="https://github.com/kunaldasx/shadow-stealth-ai-assistant" target="_blank"><img src="src/renderer/src/assets/logo.png" alt="shadow-ai" width="200"></a>
   <br>
   Shadow
   <br/>
@@ -51,10 +51,22 @@
   <img src="src/renderer/src/assets/code-connect-preview.png" alt="preview" width="100%" />
 </p>
 
-<!-- 🌐 **Live Demo**🔗 [crusto-pizza.vercel.app](https://crusto-pizza.vercel.app) -->
+## Download
+
+Download the latest version for your platform:
+
+**Windows:** [shadow-ai-1.0.0-setup.exe](https://github.com/kunaldasx/shadow-stealth-ai-assistant/releases/download/v1.0.0/shadow-ai-1.0.0-setup.exe)
+
+**Linux:**
+
+- [shadow-ai-1.0.0.AppImage](https://github.com/kunaldasx/shadow-stealth-ai-assistant/releases/download/v1.0.0/shadow-ai-1.0.0.AppImage) (Universal)
+- [shadow-ai_1.0.0_amd64.deb](https://github.com/kunaldasx/shadow-stealth-ai-assistant/releases/download/v1.0.0/shadow-ai_1.0.0_amd64.deb) (Debian/Ubuntu)
+
+**[📜 View all releases](https://github.com/Kunaldasx/shadow-stealth-ai-assistant/releases)**
 
 ## Key Features
 
+- **Privacy Overlay** – Invisible to screen recorders, streaming tools, and screen sharing
 - **Screenshot Capture** - Global hotkeys for instant problem screenshot capture
 - **AI Problem Analysis** - Extract coding problems from images using GPT/Gemini
 - **Multi-Language Support** - Generate solutions in Python, C++, Java, and more
